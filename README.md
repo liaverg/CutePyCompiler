@@ -4,7 +4,7 @@
  
  ### About
  CutePy is a simple educational programming language that is based on Python.  
- CutePy progam files have a .cpy extension.
+ Progam files written in this language have a .cpy extension.
  
  The CutePyCompiler is written in Python. It performs all the compiler stages:  
  * Lexical Analysis
