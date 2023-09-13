@@ -8,7 +8,7 @@
  
  The CutePyCompiler is written in Python. It performs all the compiler stages:  
  * Lexical Analysis
- * Syntaz Analysis
+ * Syntax Analysis
  * Symbol Table
  * Target Code
  
